@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/luana1307.lwc-l6b50ge2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve enaTyGjQFNJpnFy21nPl --open"
+  }
+}
